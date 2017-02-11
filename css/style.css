@@ -1,0 +1,67 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	font-family: "source sans pro", sans-serif;
+}
+
+header
+{
+	padding: 2%;
+	background-color: black;
+	color: white;
+}
+
+header h1
+{
+	font-size: 4em;
+	letter-spacing: -0.098em;
+}
+
+header h3
+{
+	letter-spacing: 0.3em;
+}
+
+#main-area
+{
+	padding: 2%;
+}
+
+.article h5
+{
+	display: inline;
+	color: #aaa;
+
+}
+
+.article a
+{
+	text-decoration: none;
+	color: #333;
+	font-size: 1.2em;
+}
+
+.article h6
+{
+	color: #aaa;
+}
+
+.article
+{
+	border: 0px solid #fff;
+	margin:20px 0px;
+}
+
+.article:hover {
+    position: relative;
+    box-shadow: 0 49.5px 40px -24.5px rgba(0,0,0,0.3);
+    background: linear-gradient(#fff, #eee);
+    padding: 6px 10px;
+    margin: 20px -6px;
+    transition: 500ms;
+}

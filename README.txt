@@ -1,0 +1,1 @@
+A simple news feed application accessing a json data store to display data into a webpage. The data is fetched using the given API and stored in the browser's Local Storage (HTML5).
